@@ -24,5 +24,5 @@ SQLite
 ![studentview](https://user-images.githubusercontent.com/36049471/153911735-5e81dac2-c28d-411a-873e-3fd2e81c570e.png)
 ![performance](https://user-images.githubusercontent.com/36049471/153911738-0a2b1b4f-f421-47cc-be32-64fe92dae2b2.png)
 ![dountchart](https://user-images.githubusercontent.com/36049471/153911741-c95ac279-ea9e-462c-be78-7f7fe47892e8.png)
-![database](https://user-images.githubusercontent.com/36049471/153911749-7546d080-cc8a-47ea-89ef-2f041e594c30.png)
+
 
